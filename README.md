@@ -22,7 +22,7 @@ to change the version in the `docker-compose.yml`
 ## getting started
 
 ```bash
-docker-compose --build up -d
+docker-compose up --build -d
 # to follow the classes/memory monitoring
 docker-compose logs -f scripts
 # to get kc logs
