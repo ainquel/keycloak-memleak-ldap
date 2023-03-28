@@ -1,4 +1,4 @@
-This project helps to reproduce a memory leak described [here](xxx)
+This project helps to reproduce a memory leak described [here](https://github.com/keycloak/keycloak/issues/19396)
 when using multiple ldap user federations in one realm.
 
 It uses `docker` and `docker-compose` to start a keycloak instance and a
